@@ -12,13 +12,12 @@ The system follows OOP principles such as inheritance, encapsulation, and modula
 
 ---
 project/
-│
-├── property.py # Base Property class
-├── commercial_property.py # CommercialProperty (inherits Property)
-├── property_agent.py # PropertyAgent class (manages properties & commission)
-├── property_agency_director.py # Director class (inherits Agent, manages agents)
-├── commission_slip.py # Handles commission report generation
-└── main.py # Entry point of the program
+property.py # Base Property class
+commercial_property.py # CommercialProperty (inherits Property)
+property_agent.py # PropertyAgent class (manages properties & commission)
+property_agency_director.py # Director class (inherits Agent, manages agents)
+commission_slip.py # Handles commission report generation
+main.py # Entry point of the program
 ---
 ## ⚙️ Features
 
