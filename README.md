@@ -11,7 +11,7 @@ The system follows OOP principles such as inheritance, encapsulation, and modula
 ## 📁 Project Structure
 
 ---
-project
+
 
 property.py # Base Property class
 
@@ -46,3 +46,5 @@ main.py # Entry point of the program
 ### 1. Make sure Python is installed
 ```bash
 python --version
+### 2. Run the program
+python main.py
