@@ -44,7 +44,8 @@ main.py # Entry point of the program
 ## ▶️ How to Run
 
 ### 1. Make sure Python is installed
-```bash
+
 python --version
+
 ### 2. Run the program
 python main.py
